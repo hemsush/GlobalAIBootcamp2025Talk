@@ -1,0 +1,6 @@
+1.https://www.databricks.com/resources/demos/tutorials/data-science-and-ai/llm-tools-functions?itm_data=demo_center
+2.https://docs.databricks.com/aws/en/generative-ai/create-query-vector-search#example-notebooks
+3.https://www.databricks.com/resources/demos/tutorials/data-science-and-ai/lakehouse-ai-deploy-your-llm-chatbot
+4.https://docs.databricks.com/aws/en/generative-ai/agent-evaluation/
+5.https://docs.databricks.com/aws/en/notebooks/source/generative-ai/agent-evaluation-example.html
+6.https://learn.microsoft.com/en-us/azure/databricks/generative-ai/tutorials/agent-framework-notebook
